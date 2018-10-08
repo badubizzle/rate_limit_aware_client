@@ -1,0 +1,3 @@
+%{
+  "ratex": {:git, "https://github.com/badubizzle/ratex.git", "4a92da41daf66fbca65c0c6e85c84e51fca77e27", []},
+}
